@@ -2,3 +2,5 @@ Mi primera subida, estoy modificando.
 Estamos comprobando github
 
 Otra prueba más modificando el primer archivo
+
+vamos a crear otra modificación para un conflicto...
